@@ -1,0 +1,63 @@
+.menu
+{
+    background-image: linear-gradient(to bottom,rgba(193, 81, 175, 0.5), rgb(91, 195, 181));
+}
+.bgimage
+{
+    height: 1270px;
+    width: 1510px;
+}
+.cen
+{
+    margin-left: 600px;
+    margin-right: 600px;
+    border-color: 1px solid black;
+    background-image: linear-gradient(to bottom,rgba(193, 81, 175, 0.5), rgb(91, 195, 181));
+    
+}
+.adj
+{
+    width: 250px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.y{
+    text-align: center;
+}
+
+.x{
+    text-align: center;
+    color:  rgb(116, 63, 162);;
+}
+.w{
+    margin-left: 300px;
+}
+  
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
+  .centre
+  {
+    text-align: center;
+  }
+  .font
+  {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .L{
+    margin-left: 500px;
+  }
